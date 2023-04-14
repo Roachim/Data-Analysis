@@ -1,0 +1,6 @@
+C:\Users\KOM\Desktop\Opgaver\Data analyst\DataAnalystBioanalysis\DataAnalystBioanalysis\obj\Debug\net5.0-windows\DataAnalystBioanalysis.csproj.AssemblyReference.cache
+C:\Users\KOM\Desktop\Opgaver\Data analyst\DataAnalystBioanalysis\DataAnalystBioanalysis\obj\Debug\net5.0-windows\DataAnalystBioanalysis.csproj.ResolveComReference.cache
+C:\Users\KOM\Desktop\Opgaver\Data analyst\DataAnalystBioanalysis\DataAnalystBioanalysis\obj\Debug\net5.0-windows\DataAnalystBioanalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOM\Desktop\Opgaver\Data analyst\DataAnalystBioanalysis\DataAnalystBioanalysis\obj\Debug\net5.0-windows\DataAnalystBioanalysis.AssemblyInfoInputs.cache
+C:\Users\KOM\Desktop\Opgaver\Data analyst\DataAnalystBioanalysis\DataAnalystBioanalysis\obj\Debug\net5.0-windows\DataAnalystBioanalysis.AssemblyInfo.cs
+C:\Users\KOM\Desktop\Opgaver\Data analyst\DataAnalystBioanalysis\DataAnalystBioanalysis\obj\Debug\net5.0-windows\DataAnalystBioanalysis.csproj.CoreCompileInputs.cache
